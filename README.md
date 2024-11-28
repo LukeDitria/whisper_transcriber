@@ -15,7 +15,7 @@ This Python script provides a versatile tool for transcribing audio from multipl
 1. Clone the repository:
 ```bash
 git clone https://github.com/LukeDitria/whisper_transcriber.git
-cd audio-transcription-tool
+cd whisper_transcriber
 ```
 
 2. Create a virtual environment (optional but recommended):
